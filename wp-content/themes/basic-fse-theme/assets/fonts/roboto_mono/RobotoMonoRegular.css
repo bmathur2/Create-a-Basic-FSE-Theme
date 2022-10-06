@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'RobotoMonoRegular';
+    src: url('fonts/RobotoMonoRegular.eot');
+    src: url('fonts/RobotoMonoRegular.eot') format('embedded-opentype'),
+         url('fonts/RobotoMonoRegular.woff2') format('woff2'),
+         url('fonts/RobotoMonoRegular.woff') format('woff'),
+         url('fonts/RobotoMonoRegular.ttf') format('truetype'),
+         url('fonts/RobotoMonoRegular.svg#RobotoMonoRegular') format('svg');
+}
